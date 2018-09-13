@@ -1,11 +1,9 @@
-# Developer: Sam Junior
-# Perfect Security - Hacking Channel
+# C0d3r: Sam Junior
 #
 # Version: 1.0 | 2018
 
 Pre-Requisites
 ===============
-- Ngrok
 - Python 2
 - Python 3
 - Root Privileges
